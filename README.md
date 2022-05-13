@@ -1,5 +1,7 @@
 # RoboRace
 
+**This program runs successfully on the NetBeans IDE, please have that in order for this game to run successfully!**
+
 _**The Game**_
 
 The factory hall is a 2-dimensional grid of spaces in which every space can only be occupied by one robot at a time. The game is played in rounds until the first robot reaches the dedicated goal. Each player (1-4) controls a robot that has a position on the board and a direction it is facing. At the beginning of the game each robot is in its dedicated starting position. Each round of the game consists of four individual actions:
