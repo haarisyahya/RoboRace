@@ -7,31 +7,10 @@ Execute all programs
 Revitalize all dead robots
 Deal Program cards
 Each player receives 7 randomly generated program cards. There are 84 program cards in total. The cards and their effect when executed are listed in the table below.
+
+
 ![image](https://user-images.githubusercontent.com/80646420/168396346-60a07e60-424e-42d1-ada1-1e69e331272a.png)
 
-
-Number / Priority       Name     Effect
-1-18
-Turn right
-Turns the robot (changes the direction it is facing) to the right (clockwise).
-19-36
-Turn left
-Turns the robot (changes the direction it is facing) to the left (counter clockwise).
-37-42
-Turn 180°
-Turns the robot (changes the direction it is facing) by 180°.
-43-48
-Move backwards (1 step)
-Moves the robot 1 space backwards (does not change the direction it is facing).
-49-66
-Move (1 step)
-Moves the robot 1 space forwards (does not change the direction it is facing).
-67-78
-Move (2 steps)
-Moves the robot 2 spaces forwards (does not change the direction it is facing).
-79-84
-Move (3 steps)
-Moves the robot 3 spaces forwards (does not change the direction it is facing).
 Plan program and select cards
 Each player creates a program for her/his robot by selecting 5 out of the 7 program cards in order. These 5 cards will be executed in the order they have been selected and maneuver the robot around the factory hall.
 Execute all program
