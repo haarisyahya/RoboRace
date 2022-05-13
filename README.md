@@ -7,6 +7,8 @@ Execute all programs
 Revitalize all dead robots
 Deal Program cards
 Each player receives 7 randomly generated program cards. There are 84 program cards in total. The cards and their effect when executed are listed in the table below.
+![image](https://user-images.githubusercontent.com/80646420/168396346-60a07e60-424e-42d1-ada1-1e69e331272a.png)
+
 
 Number / Priority       Name     Effect
 1-18
