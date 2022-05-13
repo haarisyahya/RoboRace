@@ -1,6 +1,6 @@
 # RoboRace
 
-**This program runs successfully on the NetBeans IDE, please have that in order for this game to run successfully!**
+**THIS PROGRAM RUNS SUCCESSFULLY ON THE NETBEANS IDE, IN ORDER TO PLAY THE GAME AND TRY IT OUT, PLEASE HAVE THE CORRECT IDE!**
 
 _**The Game**_
 
