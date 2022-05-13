@@ -19,7 +19,7 @@ _**Plan program and select cards**_
 
 Each player creates a program for her/his robot by selecting 5 out of the 7 program cards in order. These 5 cards will be executed in the order they have been selected and maneuver the robot around the factory hall.
 
-_**Execute all program**__
+_**Execute all program**_
 
 The execution of the programs is done in 5 phases. In the first phase the first card of each player in order of their priority are executed. Then the space in which each robot currently is will take an effect on the robot. These effects are executed in random order. For example, the robot of Player 1 has landed on a gear and the robot of Player 2 has landed on a conveyor belt adjacent to that gear after executing the first card. Now, the effect of the factory hall on the robots is executed in random order. Player 2 is picked first. Her/his robot is moved by the belt onto the gear pushing the robot Player 1 on another conveyor belt. Now, the effect for Player 1 is executed. The robot is now on a conveyor belt and no longer on the gear. Therefore, the conveyor belt moves the robot in an adjacent space. In the second phase the second card of each player is executed, and so on. With other words in phase i the following happens:
 The i-th card of each player is executed in order of their priority.
