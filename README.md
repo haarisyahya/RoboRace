@@ -8,9 +8,7 @@ Revitalize all dead robots
 Deal Program cards
 Each player receives 7 randomly generated program cards. There are 84 program cards in total. The cards and their effect when executed are listed in the table below.
 
-Number / Priority
-Name
-Effect
+Number / Priority       Name     Effect
 1-18
 Turn right
 Turns the robot (changes the direction it is facing) to the right (clockwise).
