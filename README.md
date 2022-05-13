@@ -1,19 +1,24 @@
 # RoboRace
-The Game
+
+**The Game**
 The factory hall is a 2-dimensional grid of spaces in which every space can only be occupied by one robot at a time. The game is played in rounds until the first robot reaches the dedicated goal. Each player (1-4) controls a robot that has a position on the board and a direction it is facing. At the beginning of the game each robot is in its dedicated starting position. Each round of the game consists of four individual actions:
 Deal program cards
 Plan program and select cards
 Execute all programs
 Revitalize all dead robots
-Deal Program cards
+
+**Deal Program cards**
 Each player receives 7 randomly generated program cards. There are 84 program cards in total. The cards and their effect when executed are listed in the table below.
 
 
 ![image](https://user-images.githubusercontent.com/80646420/168396346-60a07e60-424e-42d1-ada1-1e69e331272a.png)
 
-Plan program and select cards
+**Plan program and select cards**
+
 Each player creates a program for her/his robot by selecting 5 out of the 7 program cards in order. These 5 cards will be executed in the order they have been selected and maneuver the robot around the factory hall.
-Execute all program
+
+**Execute all program**
+
 The execution of the programs is done in 5 phases. In the first phase the first card of each player in order of their priority are executed. Then the space in which each robot currently is will take an effect on the robot. These effects are executed in random order. For example, the robot of Player 1 has landed on a gear and the robot of Player 2 has landed on a conveyor belt adjacent to that gear after executing the first card. Now, the effect of the factory hall on the robots is executed in random order. Player 2 is picked first. Her/his robot is moved by the belt onto the gear pushing the robot Player 1 on another conveyor belt. Now, the effect for Player 1 is executed. The robot is now on a conveyor belt and no longer on the gear. Therefore, the conveyor belt moves the robot in an adjacent space. In the second phase the second card of each player is executed, and so on. With other words in phase i the following happens:
 The i-th card of each player is executed in order of their priority.
 The space each robot currently occupies takes an effect on the robot.
@@ -34,5 +39,7 @@ Gears rotate robots 90° in the indicated direction.
 Goals end the game. The robot on that spot is the winner of the game.
 Pits destroy robots.
 When a robot is moved by a factory element it might be blocked by walls or it may push other robots as described above.
-Revitalize all dead robots
+
+**Revitalize all dead robots**
+
 All dead robots become alive again and are placed into their dedicated starting position. If this position is occupied by another robot, the robot will be placed into the first free starting position on the board.
